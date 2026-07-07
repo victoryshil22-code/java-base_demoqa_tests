@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-base_demoqa_tests.iml" filepath="$PROJECT_DIR$/.idea/java-base_demoqa_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-base_demoqa_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-base_demoqa_tests.test.iml" />
     </modules>
   </component>
 </project>
